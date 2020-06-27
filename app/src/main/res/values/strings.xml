@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+
+    <string name="edit_text_uri">http://developer.android.com</string>
+    <string name="button_uri">Launch Website</string>
+
+    <string name="edit_text_location">African Leadership Academy</string>
+    <string name="button_location">Open Location</string>
+
+    <string name="edit_text_share">Denis is awesome</string>
+    <string name="button_share">Share this text</string>
+</resources>
